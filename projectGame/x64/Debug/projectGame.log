@@ -1,0 +1,5 @@
+﻿  DisplayGallows.cpp
+  projectGame.cpp
+C:\Visual\projectGame\projectGame\projectGame.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  projectGame.vcxproj -> C:\Visual\projectGame\x64\Debug\projectGame.exe
